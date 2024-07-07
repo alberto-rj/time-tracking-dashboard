@@ -32,7 +32,7 @@ Users should be able to:
 ### Links
 
 - [Live Site](https://alberto-rj.github.io/time-tracking-dashboard/)
-- [Solution on Frontend Mentor](https://your-solution-url.com)
+- [Solution on Frontend Mentor](https://www.frontendmentor.io/solutions/animated-time-tracking-dashboard-irs3-bzKq7)
 
 ## My process
 
